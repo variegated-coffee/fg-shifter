@@ -433,7 +433,10 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(J1-PWR_GND)": "24V",
+      "Net-(J1-PWR_VCC)": "24V"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
