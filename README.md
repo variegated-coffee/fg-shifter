@@ -2,6 +2,8 @@
 
 Fluid-o-tech FG20x/30x/40x gear pumps run at 5V, but Variegated Coffee boards prefer 3V3. The pumps also prefer a smooth control signal. PWM signals aren't. This is a really tiny board designed to fit into a Hammond 1551G project box allowing you to shift between 5V and 3V3, and to add an RC filter to smooth out the PWM signal.
 
+![PCB](.github/pcb.png)
+
 *R2B is the current revision, but is yet to be manufactured. You shouldn't be the first to do so.*
 
 ## Features
