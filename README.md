@@ -28,3 +28,4 @@ If you open up a FG series pump, you'll find the the stock cable is attached usi
   * Changed the board to not just be an RC filter, but to also do level shifting
 * R2A -> R2B
   * Added bypass caps and Variegated coffee logo
+  * Changed pinouts on connectors, to keep optional pins towards one edge
