@@ -16,7 +16,7 @@ Fluid-o-tech FG20x/30x/40x gear pumps run at 5V, but Variegated Coffee boards pr
 
 ## Cabling
 
-If you open up a FG series pump, you'll find the the stock cable is attached using a connector. That connector is a TE AMP CT 6 position connector. If you're unhappy with the stock cable, you should be able to create a new one.
+If you open up a FG series pump, you'll find the the stock cable is attached using a connector. That connector is a TE AMP CT 6 position connector (2.00 mm pitch). If you're unhappy with the stock cable, you should be able to create a new one.
 
 ![Pump controller board pinout](.github/pump_controller_pinout.jpeg)
 
